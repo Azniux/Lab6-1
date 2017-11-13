@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/lab2/app/controllers/HomeController.java:18:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable index[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok(index.render());[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/lab2/app/controllers/HomeController.java:22:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable about[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok(about.render());[0m
